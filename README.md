@@ -4,37 +4,6 @@ Technical Assessment
 
 ## The goal of this task is to: 
 
-
-1. **Location-Based Store Search:**
-   - Users should be able to search for the closest Coop stores based on their current location.
-   - Alternatively, users should be able to enter a zip code (postnummer) or placename to search for nearby stores.
-
-2. **Store Details:**
-   - Users should have the ability to view the details of a selected store.
-   - The store details should include relevant information about the store, such as its address, contact details, and operating hours.
-
-3. **Download Newsletter:**
-   - Users should be able to download the newsletter (Kundeavis) from the selected store.
-   - The app should provide a user-friendly interface to access and download the newsletter.
-
-4. **GET Requests:**
-   - The app should utilize the provided GET requests to fetch the required information about the stores.
-   - It should properly format the requests based on the user's input (zip code, placename, latitude, longitude).
-
-5. **Compatibility and Accessibility:**
-   - The app should be compatible with both iOS and Android devices.
-   - It should provide an intuitive and accessible user interface for a seamless user experience.
-
-6. **Bonus: Flutter Implementation:**
-   - The app should be implemented using the Flutter framework.
-   - It should run effectively on both iOS and Android devices, providing a consistent experience.
-
-7. **Bonus: Map Integration:**
-   - The app should display the selected store on a map.
-   - Users should have the option to view directions from their current location to the selected store on the map.
-
- ## Technical Requirements
-
 1. **Mobile App Platform:**
    - The app should be developed for both iOS and Android platforms.
    - It should be implemented using the Flutter framework to ensure cross-platform compatibility.
