@@ -83,10 +83,10 @@ Technical Assessment
 # Screenshot
 |   |   |
 |--------|-----|
-|![Alt text](/lib/assets/images/1.png?raw=true "Screenshot 1") | ![Alt text](/lib/assets/images/2.png?raw=true "Screenshot 2") |
-|![Alt text](/lib/assets/images/3.png?raw=true "Screenshot 3") | ![Alt text](/lib/assets/images/4.png?raw=true "Screenshot 4") |
-|![Alt text](/lib/assets/images/5.png?raw=true "Screenshot 5") | ![Alt text](/lib/assets/images/6.png?raw=true "Screenshot 6") |
-|![Alt text](/lib/assets/images/7.png?raw=true "Screenshot 7") | ![Alt text](/lib/assets/images/8.gif?raw=true "Gif 8") |
+|![Alt text](/lib/assets/images/1.PNG?raw=true "Screenshot 1") | ![Alt text](/lib/assets/images/2.PNG?raw=true "Screenshot 2") |
+|![Alt text](/lib/assets/images/3.PNG?raw=true "Screenshot 3") | ![Alt text](/lib/assets/images/4.PNG?raw=true "Screenshot 4") |
+|![Alt text](/lib/assets/images/5.PNG?raw=true "Screenshot 5") | ![Alt text](/lib/assets/images/6.PNG?raw=true "Screenshot 6") |
+|![Alt text](/lib/assets/images/7.PNG?raw=true "Screenshot 7") | ![Alt text](/lib/assets/images/8.gif?raw=true "Gif 8") |
 
 # Plugins
 Plugin and there version used in this repository.
