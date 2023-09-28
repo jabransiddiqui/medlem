@@ -38,12 +38,16 @@ class StoreLocatorCubit extends Cubit<StoreLocatorState> {
           (res?.additionalStores != null &&
               (res?.additionalStores?.length ?? 0) > 0)) {
         List<Store> storeList = [];
+
         if ((res?.stores?.length ?? 0) > 0) {
           storeList = [...storeList, ...res?.stores ?? []];
         }
         if ((res?.additionalStores?.length ?? 0) > 0) {
           storeList = [...storeList, ...res?.additionalStores ?? []];
         }
+
+        storeList.where((store) => store.chainId == '07').toList();
+
         emit(state.copyWith(
           screenStatus: ScreenStatus.success,
           centerLocation: res?.location,
